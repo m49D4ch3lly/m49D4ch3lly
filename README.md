@@ -1,4 +1,4 @@
-Hi there 👋 - I’m @ch3llym49d4
+Hi there 👋 - I’m @m49D4ch3lly 
 
 I am a Global Citizen, Tunisian and Polish by birth and nationality, Singaporean resident, cybersecurity passionate, author, public speaker, entertainer, and serial entrepreneur.
 
