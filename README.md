@@ -10,7 +10,7 @@ I appeared on The Dark Web Documentary on Channel News Asia. I was featured on o
 
 In 2020, I was featured in the distributed version of the Dark Web Documentary on Canal Plus, France and ZDFInfo, Germany.
 
-You can check my profile in details here: magda-on-cyber.com
+You can check my profile in details here: https://magda-on-cyber.com/ and read my blog here: https://blog.magda-on-cyber.com
 
     🔭 I’m currently working on Responsible Cyber Platform. 
     🌱 I’m speaking fluently English, French, Arabic, Polish, and Italian. 
