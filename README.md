@@ -14,7 +14,9 @@ You can check my profile in details here: https://magda-on-cyber.com/ and read m
 
     🔭 I’m currently working on Responsible Cyber Platform. 
     🌱 I’m speaking fluently English, French, Arabic, Polish, and Italian. 
-    👯 I’m looking to collaborate on community building and knowledge sharing for my community Women on Cyber; focusing on supporting younger female cybersecurity passionate, and encouraging them to share their cybersecurity knowledge. 
-    🤔 I’m looking for help with hacking sometimes. It is my passion, but I do not focus on it full time, and I know there are fantastic hackers out here from whom I can learn a lot om the newest techniques.
+    👯 I’m looking to collaborate on community building and knowledge sharing for my community Women on Cyber; 
+    focusing on supporting younger female cybersecurity passionate, and encouraging them to share their cybersecurity knowledge. 
+    🤔 I’m looking for help with hacking sometimes. It is my passion, but I do not focus on it full time, and I know there are 
+    fantastic hackers out here from whom I can learn a lot om the newest techniques.
     💬 Ask me about cybersecurity, and cyber risk. 
     📫 How to reach me: info@responsible-cyber.com
