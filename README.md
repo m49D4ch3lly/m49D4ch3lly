@@ -1,23 +1,21 @@
-Hi there 👋 - I’m @m49D4ch3lly 
+Hi there 👋 — I’m Dr Magda Chelly
 
-I am a Global Citizen, Tunisian and Polish by birth and nationality, Singaporean resident, cybersecurity passionate, author, public speaker, entertainer, and serial entrepreneur.
+I’m a cybersecurity and digital risk specialist with a global background, focused on helping organisations understand and manage cyber risk as a business, regulatory, and systemic issue — not just a technical one.
 
-I'm the co-founder of cybersecurity start-up Responsible Cyber Pte. Ltd. and cybersecurity non-profit group Women on Cyber in Singapore.
+I am the Founder of RiskImmune, a cybersecurity risk intelligence company focused on third-party risk, digital resilience, and regulatory-driven cyber risk management. My work sits at the intersection of technology, governance, regulation, and operational resilience, with a strong emphasis on how cyber risk propagates across supply chains and ecosystems.
 
-Some of my most notable research contributions include Cyber Security, Cyber risk quantification, the future of localisation and positioning, education and more.. My Google Scholar profile is here: https://scholar.google.com/citations?user=FcFGzMAAAAAJ&hl=en
+My research interests include cyber risk quantification, digital resilience, third-party and systemic risk, regulation-driven security (DORA, NIS2), and the evolving impact of AI on cyber risk.
+You can find my academic publications on Google Scholar:
+👉 https://scholar.google.com/citations?user=FcFGzMAAAAAJ&hl=en
 
-I appeared on The Dark Web Documentary on Channel News Asia. I was featured on other TV shows, including VTV 1 News. I was the guest on Task Force 7 Radio, and I gave interviews including Prime Time on MoneyFM 89.3.
+I have appeared in international media and documentaries discussing cybercrime and cyber risk, including The Dark Web documentary on Channel News Asia, with distributed broadcasts on Canal Plus (France) and ZDFinfo (Germany), as well as interviews on radio and television programmes across Europe and Asia.
 
-In 2020 and 2021, I was featured in the distributed versions of the Dark Web Documentary on Canal Plus, France and ZDFInfo, Germany.
+More about my work:
 
-You can check my profile in details here: https://magda-on-cyber.com/ and read my blog here: https://blog.magda-on-cyber.com
+Website: https://riskimmune.ai
 
-    🔭 I’m currently working on Responsible Cyber Platform. 
-    🌱 I’m speaking fluently English, French, Arabic, Polish, and Italian. 
-    👯 I’m looking to collaborate on community building and knowledge sharing for my community Women on Cyber; 
-    focusing on supporting younger female cybersecurity passionate, and encouraging them to share their 
-    cybersecurity knowledge. 
-    🤔 I’m looking for help with hacking sometimes. It is my passion, but I do not focus on it full time, 
-    and I know there are fantastic hackers out here from whom I can learn a lot om the newest techniques.
-    💬 Ask me about cybersecurity, and cyber risk. 
-    📫 How to reach me: info@responsible-cyber.com
+Personal site & publications: https://magda-on-cyber.com
+
+🔭 Currently working on RiskImmune, focusing on cyber risk intelligence and third-party risk visibility
+🌱 Languages: English, French, Arabic, Polish, Italian
+💬 Ask me about cyber risk, third-party risk, regulation, and digital resilience
